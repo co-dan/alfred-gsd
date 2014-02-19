@@ -30,13 +30,13 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>Dan Frumin</string>
 	<key>description</key>
 	<string></string>
 	<key>disabled</key>
-	<true/>
+	<false/>
 	<key>name</key>
-	<string>System command from keyword and notify</string>
+	<string>Get Stuff Done</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -123,6 +123,6 @@
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>http://covariant.me</string>
 </dict>
 </plist>
